@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979248816092",
+    "firebase_url": "https://alc4phase1challenge2-4570e.firebaseio.com",
+    "project_id": "alc4phase1challenge2-4570e",
+    "storage_bucket": "alc4phase1challenge2-4570e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979248816092:android:c14fa86d7c733a3a",
+        "android_client_info": {
+          "package_name": "com.example.alc4phase1challenge2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979248816092-4cd833v2h875ahrp4cdsokuqnjmgiua8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alc4phase1challenge2",
+            "certificate_hash": "ccd9a0b8a6de8d26bc204c31e3dae646daf0722b"
+          }
+        },
+        {
+          "client_id": "979248816092-eub5in2kqttups5muclk796j97bmapps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6tYkADFEglBuqxX3q_-RWhSHiW4Z9tfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979248816092-eub5in2kqttups5muclk796j97bmapps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
